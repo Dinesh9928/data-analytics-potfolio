@@ -5,27 +5,7 @@ and hobby purposes. Presented in the form of iPython Notebooks,
 
 
 
-# Contents
-* ### Data Analytics 
-### <a href="https://github.com/Dinesh9928/data-analytics-potfolio/blob/master/Project%20On%20IDBM_Movie_Data.ipynb">IDBM Movie Ratings Data Analysis</a>: The aim of the project is to analyze the IDBM_Movie_Data
-*  1. Load the data into your working area and get the information about the null values.
-*  2. Rename the columns for the analysis purpose if any columns are not in proper way
-*  3. Handle the missing value columns with the proper assumtion.
-*  4. Generate the relationship between each continuous variable using corr() method.
-*  5. Find the movies directed by 'James Gunn', & 'Ridley Scott' with the rating greater than or equal to 8.
-*  6. Display all the movies directed by 'Ridley Scott'.
-*  7. Display all the director's who got the rating >= 8 for their movies.
-*  8. Find all the movies directed by 'James Gunn', & 'Ridley Scott'.
-*  9. Display all the movies with the ratings between 8 & 9 and also the films with the highest rating.
-*  10. Find the movies directed by both 'Christopher Nolan' and 'Ridley Scott'
-*  11. Find all movies that were released between 2006 and 2010, have a rating above 8.0, but made below the 50th percentile in revenue.
-*  12. Find all movies that were released between 2006 and 2010, have a rating above 8.0, but made below the 25th percentile in revenue.
-*  13. Finally give the feedback for all movies with 'Good' if the movie 'rating' is >= 8 and 'Average' if the movie rating doesn't follow the condition given.
-   The Dataset Consist of 1000 Rows and 11 Columns. 
-   
-   
-   
-   
+# Contents   
    
  ### <a href="https://github.com/Dinesh9928/data-analytics-potfolio/blob/master/Project_Analytics%20On%20Global%20Superstore%20Data%202016.ipynb">Project_Analytics On Global Superstore Data 2016</a>: The aim of this project is to analyse the data with respect to the sales and profit after filtering some of the columns.
 The data 'global_superstore_2016' consists of 51290 entries (that is rows) and total 24 columns. The columns Order Date & Ship Date are not in one specific format and also in Datetime type,our job is to convert these columns to the Datetime objects first.
@@ -41,6 +21,24 @@ so will filter these columns and convert them into an either int or float type. 
  * Find the list of Indian states where the people have purchased the things under the category Technology.
  * Find the overall rank of "India" where the 'Profit' is maximum under the category 'Technology'.
  * Display the data with min, max, average and std of 'Profit' & 'Sales' for each Sub-Category under each Category
+
+
+ 
+ ### <a href="https://github.com/Dinesh9928/data-analytics-potfolio/blob/master/Project%20On%20IDBM_Movie_Data.ipynb">IDBM Movie Ratings Data Analysis</a>: The aim of the project is to analyze the IDBM_Movie_Data
+*  1. Load the data into your working area and get the information about the null values.
+*  2. Rename the columns for the analysis purpose if any columns are not in proper way
+*  3. Handle the missing value columns with the proper assumtion.
+*  4. Generate the relationship between each continuous variable using corr() method.
+*  5. Find the movies directed by 'James Gunn', & 'Ridley Scott' with the rating greater than or equal to 8.
+*  6. Display all the movies directed by 'Ridley Scott'.
+*  7. Display all the director's who got the rating >= 8 for their movies.
+*  8. Find all the movies directed by 'James Gunn', & 'Ridley Scott'.
+*  9. Display all the movies with the ratings between 8 & 9 and also the films with the highest rating.
+*  10. Find the movies directed by both 'Christopher Nolan' and 'Ridley Scott'
+*  11. Find all movies that were released between 2006 and 2010, have a rating above 8.0, but made below the 50th percentile in revenue.
+*  12. Find all movies that were released between 2006 and 2010, have a rating above 8.0, but made below the 25th percentile in revenue.
+*  13. Finally give the feedback for all movies with 'Good' if the movie 'rating' is >= 8 and 'Average' if the movie rating doesn't follow the condition given.
+   The Dataset Consist of 1000 Rows and 11 Columns. 
 
 
 
