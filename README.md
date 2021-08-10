@@ -24,6 +24,9 @@ and hobby purposes. Presented in the form of iPython Notebooks,
    The Dataset Consist of 1000 Rows and 11 Columns. 
    
    
+   
+   
+   
  ### <a href="https://github.com/Dinesh9928/data-analytics-potfolio/blob/master/Project_Analytics%20On%20Global%20Superstore%20Data%202016.ipynb">Project_Analytics On Global Superstore Data 2016</a>: The aim of this project is to analyse the data with respect to the sales and profit after filtering some of the columns.
 The data 'global_superstore_2016' consists of 51290 entries (that is rows) and total 24 columns. The columns Order Date & Ship Date are not in one specific format and also in Datetime type,our job is to convert these columns to the Datetime objects first.
 And in the second stage, the columns 'Sales' and 'Profit' consist of special symbols like [ '$',"(", and ")"]
@@ -38,6 +41,10 @@ so will filter these columns and convert them into an either int or float type. 
  * Find the list of Indian states where the people have purchased the things under the category Technology.
  * Find the overall rank of "India" where the 'Profit' is maximum under the category 'Technology'.
  * Display the data with min, max, average and std of 'Profit' & 'Sales' for each Sub-Category under each Category
+
+
+
+
 
   ### <a href="https://github.com/Dinesh9928/data-analytics-potfolio/blob/master/Project%20On%20Olympics_Data.ipynb">Project On Olympics_Data</a>: Aim of this project for the Olympics data is to analyze with the following details:
  ##### Project Objectives:
